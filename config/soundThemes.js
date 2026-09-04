@@ -13,7 +13,7 @@ export const DEFAULT_SOUND_THEME = {
 
 export const SOUND_THEMES = {
   world: {
-    quiz: "./assets/music/majesticus.mp3",
+    quiz: "./assets/music/mount-majesticus.mp3",
     cinematic: "./assets/music/fated.mp3",
   },
 

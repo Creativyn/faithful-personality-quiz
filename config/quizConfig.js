@@ -1,5 +1,5 @@
 export const QUIZ_CONFIG = {
-  title: "Fated Character Quiz",
+  title: "Faithful Character Quiz",
   features: {
     smoothScroll: true,
     darkMode: true,
