@@ -236,7 +236,7 @@ export const QUESTIONS = [
         value: "fait",
       },
       {
-        text: "Overwhelmed at first, then I regroup and encourage",
+        text: "I seduce them",
         value: "nyxxa",
       },
       {
