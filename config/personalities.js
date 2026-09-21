@@ -5,7 +5,7 @@
 export const PERSONALITIES = [
   {
     id: "prometheia",
-    name: "Prometheia Alystaris",
+    name: "Prometheia Majesticus",
     heading: "The Foxy Trickster",
     quote:
       "I am not going to let Faitus disappear from my life even for one minute, let alone a season. Not without a fight!",
@@ -111,7 +111,7 @@ export const PERSONALITIES = [
   },
   {
     id: "nyxxa",
-    name: "Nyxxa",
+    name: "Nyxxa of Deth",
     heading: "The Queen of the Night",
     quote:
       "All I need from you is the assurance that you fully understand where your loyalty lies.",
