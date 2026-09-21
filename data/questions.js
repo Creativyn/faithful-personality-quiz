@@ -377,6 +377,10 @@ export const QUESTIONS = [
         value: "manus",
       },
       {
+        text: "Devoted, ethereal, and giving",
+        value: "amandas",
+      },
+      {
         text: "Creative, spirited, and kindly",
         value: "prometheia",
       },
