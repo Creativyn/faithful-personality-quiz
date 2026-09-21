@@ -85,7 +85,7 @@ export const PERSONALITIES = [
   },
   {
     id: "amandas",
-    name: "Amandas",
+    name: "Amandas Alystaris",
     heading: "The Devoted Lover",
     quote: "I never should have stolen your heart in the first place.",
     color: "#ab4dbe",
