@@ -98,7 +98,7 @@ export const PERSONALITIES = [
   },
   {
     id: "deth",
-    name: "Deth",
+    name: "Reaper of Deth",
     heading: "The Grim Reaper",
     quote: "It has been so long, so many endless days since last we met.",
     color: "#dededf",
@@ -107,7 +107,7 @@ export const PERSONALITIES = [
     cardAccent: "#dededf",
     portrait: "assets/portraits/deth.png",
     description:
-      "You cannot bear to see people suffering. If you could transport all the dying to the safe and peaceful haven of Paeysulana as quickly as possible you would. This is where you differ from someone like Fait, who believes that no matter how painful life becomes it is worth fighting for. Unlike your family, your delicate sensibilities thrive amongst the sweetly artistic. You enjoy a lilting waltz, a handful of scented flowers, and the perfumed embrace of your true love.",
+      "You cannot bear to see people suffering. If you could transport all the dying to the safe and peaceful haven of Paeysulana as quickly as possible you would. This is where you differ from someone like Fait, who believes that no matter how painful life becomes it is worth fighting for. Unlike your family, your delicate sensibilities thrive amongst the sensitively artistic. You enjoy a lilting waltz, a handful of scented flowers, and the perfumed embrace of your true love.",
   },
   {
     id: "nyxxa",
