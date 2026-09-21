@@ -245,7 +245,7 @@ export const QUESTIONS = [
       },
       { text: "Warm and welcoming", value: "luv" },
       { text: "Talk and get to know them", value: "hoep" },
-      { text: "I showoff and pursue", value: "deth" },
+      { text: "I show off and pursue", value: "deth" },
       { text: "Avoid my feelings", value: "justas" },
       { text: "Reticent and shyly encouraging", value: "amandas" },
     ],
